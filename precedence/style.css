@@ -14,4 +14,7 @@
 
     .special{
         background-color: blue;
+        width: 100px;
+        display: inline-block
+        height: 100px;
     }
