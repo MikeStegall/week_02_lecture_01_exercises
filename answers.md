@@ -8,4 +8,4 @@
 08.) b) line-height
 09.) a) letter-spacing
 10.) c & d) font-style and font-variant
-11.) all of them?
+11.) a) Arial c) Courier g) Helvetica k) Palatino h) "Linotypr Didot" i) "Licida Grande" n) Times p) Verdana
