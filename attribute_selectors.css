@@ -1,3 +1,21 @@
-div el{
-	
+div[class^='el']{
+	color: red;
+}
+
+[class*='atr']{
+	color:blue;
+}
+
+label[for]{
+	color:orange;
+}
+[id$='special']{
+	color:purple;
+}
+
+[lang^='en'] [lang*='-']{
+
+}
+button[class=""]{
+
 }

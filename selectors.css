@@ -1,0 +1,13 @@
+ol:last-of-type li:last-child{
+	color: blue;
+}
+li:first-child{
+	color: green;
+}
+
+ol:first-of-type li:first-child{
+	color: red;
+}
+h3:first-of-type{
+	color:orange;
+}
