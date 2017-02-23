@@ -10,9 +10,13 @@
 
     h1{
         /*code here*/
+        text-align: center;
+        letter-spacing: 10px;
+        text-transform: uppercase;
     }
 
     p{
         /*code here*/
+        line-height: 30px;
     }
 
